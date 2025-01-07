@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<p>
+  Currently studying Software Development, and mastering skills in C#, front- and backend web development, python and SQL. 
+</p>
+<p>
+  > If at first you don't succeed, find out where you went wrong.
+</p>
+
 <!--
 **kvrivera/kvrivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
